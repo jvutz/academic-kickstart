@@ -22,8 +22,6 @@ bio: Welcome! I am a Ph.D. Candidate in Economics at Princeton University.
 
 I will be available for interviews at the 2019 European Job Market in Rotterdam and the 2020 ASSA Annual Meeting in San Diego.
 
-My 
-
 
 Research fields:
 - Macroeconomics
