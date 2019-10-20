@@ -69,4 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome! I am a Ph.D. Candidate in Economics at Princeton University. I will be available for interviews at the 2019 European Job Market in Rotterdam and the 2020 ASSA Annual Meeting in San Diego. You can find my Job Market Paper, CV, and other research on this website. 
+Welcome! I am a Ph.D. Candidate in Economics at Princeton University. I will be available for interviews at the 2019 European Job Market in Rotterdam and the 2020 ASSA Annual Meeting in San Diego. 
+
+You can find my Job Market Paper, CV, and other research on this website. 
