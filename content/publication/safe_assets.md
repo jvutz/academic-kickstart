@@ -1,6 +1,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Safe Asset Shortages and Aggregate Demand in a Global Economy (with Fernando Mendo)"
+title: "Safe Asset Shortages and Aggregate Demand in a Global Economy (with Mendo)"
 subtitle: ""
 summary: ""
 authors: ""
