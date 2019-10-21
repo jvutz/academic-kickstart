@@ -1,3 +1,4 @@
+---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Currency Risk-Premia in Open Economy New-Keynesian Models: A Closed-Form Solution Approach"
