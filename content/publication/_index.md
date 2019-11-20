@@ -13,5 +13,5 @@ header:
   caption: ""
   image: ""
   
-  url_pdf: "files/jmp_jv.pdf"
+  url_pdf: "jmp_jv.pdf"
 ---
