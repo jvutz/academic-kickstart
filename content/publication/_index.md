@@ -12,4 +12,6 @@ view: 3
 header:
   caption: ""
   image: ""
+  
+  url_pdf: "files/jmp_jv.pdf"
 ---
