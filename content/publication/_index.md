@@ -13,5 +13,7 @@ header:
   caption: ""
   image: ""
   
-  url_pdf: "jmp_jv.pdf"
+  url_pdf: "jmp_jv.pdf" 
+  url_pdf: "vutz_mendo.pdf"
+ 
 ---
