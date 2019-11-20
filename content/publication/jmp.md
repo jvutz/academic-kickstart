@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Monetary Policy and the Cross-Section of Currency Risk-Premia (Job Market Paper, coming soon)"
+title: "Monetary Policy and the Cross-Section of Currency Risk-Premia (Job Market Paper)"
 subtitle: ""
 summary: ""
 authors: ""
